@@ -1,0 +1,3 @@
+입력:
+pip install gtts
+pip install playsound==1.2.2

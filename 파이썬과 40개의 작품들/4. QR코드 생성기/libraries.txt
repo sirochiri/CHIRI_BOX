@@ -1,0 +1,18 @@
+입력:
+pip install qrcode
+
+
+결과:
+Collecting qrcode
+  Downloading qrcode-7.4.2-py3-none-any.whl (46 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 46.2/46.2 kB ? eta 0:00:00
+Requirement already satisfied: typing-extensions in c:\users\siroc\anaconda3\lib\site-packages (from qrcode) (4.4.0)
+Requirement already satisfied: colorama in c:\users\siroc\anaconda3\lib\site-packages (from qrcode) (0.4.6)
+Collecting pypng
+  Downloading pypng-0.20220715.0-py3-none-any.whl (58 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 58.1/58.1 kB 3.0 MB/s eta 0:00:00
+Installing collected packages: pypng, qrcode
+Successfully installed pypng-0.20220715.0 qrcode-7.4.2
+
+라이브러리 PIP 주소:
+https://pypi.org/project/qrcode/
